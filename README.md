@@ -1,4 +1,6 @@
-# DMT ThermoNuclear
+```sh
+yarn install
+yarn start
+```
 
-ME3 Thermo Nuclear Hydraulic Testing Rig
-
+## DMT 16DAQ 
