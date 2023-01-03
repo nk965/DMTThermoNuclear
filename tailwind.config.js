@@ -171,6 +171,7 @@ module.exports = {
 			DEFAULT: '1',
 		},
 		fontFamily: {
+      roboto: ['Roboto', 'sans-serif'],
 			inter: ['Inter', ' sans-serif'],
 			sans: [
 				'ui-sans-serif',
